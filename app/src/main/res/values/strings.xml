@@ -1,0 +1,26 @@
+<resources>
+
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Bookzone</string>
+    <string name="nav_header_subtitle">bookzone@android.com</string>
+    <string name="nav_header_desc">Bookzone Logo</string>
+    <string name="action_logout">LogOut</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_order">Order</string>
+    <string name="menu_services">Services</string>
+    <string name="menu_contactus">ContactUs</string>
+
+    <string name="servicescomment">BookZone deals with book ordering,
+        whereby a customer orders a book from a library or a book store,
+        and we us BookZone picks the book for the customer and deliver it at their doorstep.</string>
+
+    <string name="servicecommenttwo">BookZone deals with variety of books,these include Novels,CourseBooks,
+        Atlases,Dictionaries name it all.</string>
+
+    <string name="servicescommentthree">We charge delivery fee per distance of delivery location.
+         The duration of book stay is three weeks.</string>
+</resources>

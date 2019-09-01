@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "894900950319",
+    "firebase_url": "https://bookzone-c2df0.firebaseio.com",
+    "project_id": "bookzone-c2df0",
+    "storage_bucket": "bookzone-c2df0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894900950319:android:ec456971906c613e",
+        "android_client_info": {
+          "package_name": "com.example.bookzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894900950319-b1dahi3do8b3g1duqiqj13rebt7bslfo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookzone",
+            "certificate_hash": "25eaaf75d70f105180b338c4673cdb5753e9e8e3"
+          }
+        },
+        {
+          "client_id": "894900950319-der9us8pph8b6he6f29evp0a0gh3c54i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBSX5SyAVs4estvWfnIZLiGtOs52_rIaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894900950319-der9us8pph8b6he6f29evp0a0gh3c54i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
